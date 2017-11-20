@@ -12,7 +12,6 @@ namespace CS101
 
         public EventsFeed()
         {
-            eventsFeed = new List<Event>();
         }
 
         public bool addEvent(Event e)
