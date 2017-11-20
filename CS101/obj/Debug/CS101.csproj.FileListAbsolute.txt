@@ -1,0 +1,12 @@
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\bin\Debug\CS101.exe.config
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\bin\Debug\CS101.exe
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\bin\Debug\CS101.pdb
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\obj\Debug\CS101.csprojResolveAssemblyReference.cache
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\obj\Debug\CS101.Form1.resources
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\obj\Debug\CS101.Properties.Resources.resources
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\obj\Debug\CS101.csproj.GenerateResource.Cache
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\obj\Debug\CS101.exe
+C:\Users\husse\Documents\Visual Studio 2015\Projects\CS101\CS101\obj\Debug\CS101.pdb
+C:\Users\anon\Downloads\Compressed\CS101\CS101\CS101\bin\Debug\CS101.exe.config
+C:\Users\anon\Downloads\Compressed\CS101\CS101\CS101\obj\Debug\CS101.exe
+C:\Users\anon\Downloads\Compressed\CS101\CS101\CS101\obj\Debug\CS101.pdb
